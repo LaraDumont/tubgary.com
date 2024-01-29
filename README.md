@@ -1,6 +1,2 @@
-<head>
-<meta property="og:image" content="https://tubgary.com/tubgary.jpg" />
-</head>
-<body>
+<meta property="og:image" content="tubgary.jpg" />
 <img src="tubgary.jpg" alt="tubgary"> 
-</body>
